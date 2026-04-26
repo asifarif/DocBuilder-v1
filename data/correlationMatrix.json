@@ -1,0 +1,79 @@
+{
+    "intro": "A correlation matrix has been established to link Program Learning Outcomes (PLOs) with the corresponding engineering competencies (ECs), knowledge and attitude profiles (WKs), as well as the targeted UN Sustainable Development Goals (SDGs) by 2030.",
+
+    "_NOTE_TO_USER": "The PDF showed only rows for PLO-1 through PLO-5. Rows for PLO-6 through PLO-11 below are placeholders inferred from the PLO definitions in chapter 8 — please review and edit before submission.",
+
+    "table_10_1": {
+        "caption": "Correlation Matrix: PLOs–ECs–WKs–SDGs",
+        "headers": ["PLOs", "ECs", "WKs", "SDGs"],
+        "columnWidths": [22, 28, 35, 15],
+        "rows": [
+            [
+                "PLO-1 Engineering Knowledge",
+                "EC-1 Comprehend and apply universal knowledge; EC-2 Comprehend and apply local knowledge",
+                "WK-1 Natural sciences; WK-2 Mathematics & computing; WK-3 Engineering fundamentals; WK-4 Engineering specialist knowledge",
+                "SDG-9"
+            ],
+            [
+                "PLO-2 Problem Analysis",
+                "EC-3 Problem analysis",
+                "WK-1 Natural sciences; WK-2 Mathematics & computing; WK-3 Engineering fundamentals; WK-4 Engineering specialist knowledge",
+                "Selected SDGs from SDG-1 to 17"
+            ],
+            [
+                "PLO-3 Design/Development of Solutions",
+                "EC-4 Design and development of solutions",
+                "WK-5 Engineering design and operations",
+                "SDG 1, 2, 3, 6, 9, 10, 11, 12, 13, 14"
+            ],
+            [
+                "PLO-4 Investigation",
+                "EC-5 Evaluation",
+                "WK-8 Research literature",
+                "SDG-9"
+            ],
+            [
+                "PLO-5 Tool Usage",
+                "EC-3 Problem analysis; EC-5 Evaluation",
+                "WK-2 Mathematics & computing; WK-6 Engineering practice",
+                "SDG-9"
+            ],
+            [
+                "PLO-6 The Engineer and the World",
+                "EC-6 Protection of society; EC-7 Legal, regulatory and cultural",
+                "WK-1 Natural sciences; WK-5 Engineering design and operations; WK-7 Engineering in society",
+                "SDG 3, 6, 7, 11, 13"
+            ],
+            [
+                "PLO-7 Ethics",
+                "EC-8 Ethics",
+                "WK-9 Ethics, inclusive behavior and conduct",
+                "SDG 5, 10, 16"
+            ],
+            [
+                "PLO-8 Individual and Collaborative Teamwork",
+                "EC-10 Communication and collaboration",
+                "WK-9 Ethics, inclusive behavior and conduct",
+                "SDG 5, 10, 17"
+            ],
+            [
+                "PLO-9 Communication",
+                "EC-10 Communication and collaboration",
+                "WK-1 Natural sciences; WK-9 Ethics, inclusive behavior and conduct",
+                "SDG 4, 17"
+            ],
+            [
+                "PLO-10 Project Management and Finance",
+                "EC-9 Manage engineering activities; EC-13 Responsibility for decisions",
+                "WK-2 Mathematics & computing; WK-5 Engineering design and operations",
+                "SDG 8, 9, 17"
+            ],
+            [
+                "PLO-11 Lifelong Learning",
+                "EC-11 Continuing professional development; EC-12 Judgment",
+                "WK-8 Research literature; WK-9 Ethics, inclusive behavior and conduct",
+                "SDG 4, 8"
+            ]
+        ]
+    }
+}

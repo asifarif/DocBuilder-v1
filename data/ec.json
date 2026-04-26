@@ -1,0 +1,19 @@
+{
+    "intro": "Engineering Competencies (ECs) are expected to be demonstrated by graduates during their practical experiences, which have been mapped with PLOs to reflect integration in the designed curriculum.",
+
+    "items": [
+        { "label": "EC1 Comprehend and Apply Universal Knowledge:", "text": "Comprehend and apply advanced Engineering knowledge of the widely-applied principles underpinning good practices." },
+        { "label": "EC2 Comprehend and Apply Local Knowledge:", "text": "Comprehend and apply advanced Engineering knowledge of the widely-applied principles underpinning good practice specific to the jurisdiction of practices." },
+        { "label": "EC3 Problem Analysis:", "text": "Define, investigate and analyze complex Engineering problems using data and information technologies where applicable." },
+        { "label": "EC4 Design and Development of Solutions:", "text": "Design or develop solutions to complex Engineering problems, considering a variety of perspectives and taking account of stakeholder views." },
+        { "label": "EC5 Evaluation:", "text": "Evaluate the outcomes and impacts of complex Engineering activities." },
+        { "label": "EC6 Protection of Society:", "text": "Recognize the foreseeable economic, social, and environmental effects of complex Engineering activities and seek to achieve sustainable outcomes." },
+        { "label": "EC7 Legal, Regulatory, and Cultural:", "text": "Meet all legal, regulatory, and cultural requirements and protect public health and safety in the course of all Engineering activities." },
+        { "label": "EC8 Ethics:", "text": "Conduct Engineering activities ethically." },
+        { "label": "EC9 Manage Engineering Activities:", "text": "Manage part or all of one or more complex Engineering activities." },
+        { "label": "EC10 Communication and Collaboration:", "text": "Communicate and collaborate using multiple media clearly and inclusively with a broad range of stakeholders in the course of all Engineering activities." },
+        { "label": "EC11 Continuing Professional Development (CPD) and Lifelong Learning:", "text": "Undertake CPD activities to maintain and extend competences and enhance the ability to adapt to emerging technologies and the ever-changing nature of work." },
+        { "label": "EC12 Judgment:", "text": "Recognize complexity and assess alternatives in light of competing requirements and incomplete knowledge. Exercise sound judgement in the course of all complex Engineering activities." },
+        { "label": "EC13 Responsibility for Decisions:", "text": "Be responsible for making decisions on part or all of complex Engineering activities." }
+    ]
+}

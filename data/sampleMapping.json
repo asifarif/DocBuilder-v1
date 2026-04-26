@@ -1,0 +1,58 @@
+{
+    "plos": ["PLO1", "PLO2", "PLO3", "PLO4", "PLO5"],
+    "sdgs": ["SDG4", "SDG9", "SDG11"],
+    "clos": [
+        {
+            "clo": "CLO1",
+            "mappings": {
+                "PLO1": "✔",
+                "PLO2": "",
+                "PLO3": "✔",
+                "PLO4": "",
+                "PLO5": "",
+                "SDG4": "✔",
+                "SDG9": "",
+                "SDG11": ""
+            }
+        },
+        {
+            "clo": "CLO2",
+            "mappings": {
+                "PLO1": "",
+                "PLO2": "✔",
+                "PLO3": "",
+                "PLO4": "✔",
+                "PLO5": "",
+                "SDG4": "",
+                "SDG9": "✔",
+                "SDG11": ""
+            }
+        },
+        {
+            "clo": "CLO3",
+            "mappings": {
+                "PLO1": "✔",
+                "PLO2": "",
+                "PLO3": "",
+                "PLO4": "",
+                "PLO5": "✔",
+                "SDG4": "",
+                "SDG9": "",
+                "SDG11": "✔"
+            }
+        },
+        {
+            "clo": "CLO4",
+            "mappings": {
+                "PLO1": "",
+                "PLO2": "✔",
+                "PLO3": "✔",
+                "PLO4": "",
+                "PLO5": "✔",
+                "SDG4": "✔",
+                "SDG9": "✔",
+                "SDG11": ""
+            }
+        }
+    ]
+}

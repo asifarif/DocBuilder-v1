@@ -1,0 +1,15 @@
+{
+    "intro": "To foster cognitive, psychomotor, and affective development in mathematical, computational, design, and creative thinking, the curriculum incorporates nine knowledge and attitude profiles (WKs) that define the expected learning volume and graduate performance standards.",
+
+    "items": [
+        { "label": "WK1:", "text": "A systematic, theory-based understanding of the natural sciences applicable to the discipline and awareness of relevant social sciences." },
+        { "label": "WK2:", "text": "Conceptually-based mathematics, numerical analysis, data analysis, statistics and formal aspects of computer and information science to support detailed analysis and modelling; applicable to the discipline." },
+        { "label": "WK3:", "text": "A systematic, theory-based formulation of engineering fundamentals required in the relevant engineering discipline." },
+        { "label": "WK4:", "text": "Engineering specialist knowledge that provides theoretical frameworks and bodies of knowledge for the accepted practice areas in the engineering discipline; much is at the forefront of the discipline." },
+        { "label": "WK5:", "text": "Knowledge, including efficient resource use, environmental impacts, whole-life cost, re-use of resources, net zero carbon, and similar concepts, that supports engineering design and operations in a practice area." },
+        { "label": "WK6:", "text": "Knowledge of engineering practice (technology) in the practice areas in the engineering discipline." },
+        { "label": "WK7:", "text": "Knowledge of the role of engineering in society and identified issues in engineering practice in the discipline, such as the professional responsibility of an engineer to public safety and sustainable development (Represented by the 17 UN Sustainable Development Goals (UN-SDG)." },
+        { "label": "WK8:", "text": "Engagement with selected knowledge in the current research literature of the discipline, awareness of the power of critical thinking and creative approaches to evaluate emerging issues." },
+        { "label": "WK9:", "text": "Ethics, inclusive behavior and conduct; Knowledge of professional ethics, responsibilities, and norms of engineering practice. Awareness of the need for diversity by reason of ethnicity, gender, age, physical ability, etc. with mutual understanding and respect, and of inclusive attitudes." }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "intro": "Programme Learning Outcomes (PLOs) form a set of individually assessable outcomes that are the components indicative of the graduate's potential to acquire competence to practice at the appropriate level.",
+
+    "items": [
+        { "label": "PLO-1 Engineering Knowledge:", "text": "Apply knowledge of mathematics, natural science, engineering fundamentals and Engineering specialization to the solution of complex engineering problems (WK1-WK4)." },
+        { "label": "PLO-2 Problem Analysis:", "text": "Identify, formulate, conduct research literature, and analyze complex Engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences (WK1-WK4)." },
+        { "label": "PLO-3 Design/Development of Solutions:", "text": "An ability to design solutions for complex engineering problems and design systems, components or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations (WK-5)." },
+        { "label": "PLO-4 Investigation:", "text": "Conduct investigation of complex Engineering problems using research-based knowledge and research methods, including design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions (WK-8)." },
+        { "label": "PLO-5 Tool Usage:", "text": "Create, select and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex Engineering problems, with an understanding of the limitations (WK-2 and WK-6)." },
+        { "label": "PLO-6 The Engineer and the World:", "text": "Analyze and evaluate sustainable development impacts to society, the economy, sustainability, health and safety, legal frameworks, and the environment while solving complex engineering problems (WK-1, WK-5, and WK-7)." },
+        { "label": "PLO-7 Ethics:", "text": "Apply ethical principles and commit to professional ethics and norms of engineering practice and adhere to relevant national and international laws. Demonstrate an understanding of the need for diversity and inclusion (WK-9)." },
+        { "label": "PLO-8 Individual and Collaborative Team Work:", "text": "Function effectively as an individual, and as a member or leader in diverse and inclusive teams and in multi-disciplinary, face-to-face, remote and distributed settings (WK-9)." },
+        { "label": "PLO-9 Communication:", "text": "Communicate effectively and inclusively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, and make effective presentations, taking into account cultural, language, and learning differences (WK-1 and WK-9)." },
+        { "label": "PLO-10 Project Management and Finance:", "text": "Demonstrate knowledge and understanding of engineering management principles and economic decision making and apply these to one's own work, as a member and leader in a team, to manage projects in multidisciplinary environments (WK-2 and WK-5)." },
+        { "label": "PLO-11 Lifelong Learning:", "text": "Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change (WK-8 and WK-9)." }
+    ],
+
+    "mappingIntro": "The mapping between the Programme Learning Outcomes (PLOs) and the Programme Educational Objectives (PEOs) of the BS Biomedical Engineering program has been developed to ensure a clear, logical, and outcome-based progression from graduate attributes at the time of graduation to professional achievements expected within a few years after graduation. Each mapping reflects a meaningful and demonstrable contribution of the PLO toward the attainment of the corresponding PEO(s). The mapping is shown in Table 8.1.",
+
+    "mappingProse": [
+        {
+            "heading": "PLO-1: Engineering Knowledge mapped to PEO-1 and PEO-2",
+            "text": "PLO-1 equips graduates with fundamental and advanced engineering knowledge essential for professional competence. This directly supports PEO-1, which emphasizes excellence in academia, industry, and entrepreneurship, and PEO-2, which requires the application of sound engineering knowledge to design and develop innovative and sustainable healthcare solutions."
+        },
+        {
+            "heading": "PLO-2: Problem Analysis mapped to PEO-1 and PEO-2",
+            "text": "The ability to identify, formulate, and analyze complex biomedical engineering problems is a core requirement for professional success and innovation. This outcome contributes to PEO-1 by enabling graduates to perform effectively in professional environments and to PEO-2 by supporting the development of well-informed, evidence-based solutions to healthcare challenges."
+        },
+        {
+            "heading": "PLO-3: Design/Development of Solutions mapped to PEO-1 and PEO-2",
+            "text": "PLO-3 focuses on the design and development of solutions that meet specified needs with consideration of health, safety, and sustainability. This directly aligns with PEO-2, which emphasizes innovative and sustainable healthcare solutions, and also supports PEO-1 by preparing graduates to excel in design-oriented roles in industry, research, and entrepreneurship."
+        },
+        {
+            "heading": "PLO-4: Investigation mapped to PEO-1 and PEO-2",
+            "text": "Investigation skills, including experimentation, data analysis, and interpretation, are critical for research-based problem solving and innovation. This outcome supports PEO-1 by enabling graduates to pursue advanced studies and research-oriented careers and contributes to PEO-2 by strengthening the analytical foundation required for developing innovative biomedical solutions."
+        },
+        {
+            "heading": "PLO-5: Modern Tool Usage mapped to PEO-1 and PEO-2",
+            "text": "The ability to select and apply modern engineering and computational tools is essential for contemporary biomedical engineering practice. This outcome supports PEO-1 by enhancing professional competence and adaptability, and PEO-2 by enabling the efficient design, simulation, and implementation of sustainable healthcare solutions."
+        },
+        {
+            "heading": "PLO-6: The Engineer and the World mapped to PEO-2 and PEO-3",
+            "text": "PLO-6 addresses the impact of engineering solutions in societal, environmental, and global contexts. This outcome aligns with PEO-2, which focuses on addressing global healthcare challenges, and PEO-3, which emphasizes social responsibility and ethical awareness in professional practice."
+        },
+        {
+            "heading": "PLO-7: Ethics mapped to PEO-3",
+            "text": "Ethical reasoning and professional integrity are explicitly emphasized in PEO-3. PLO-7 ensures that graduates demonstrate ethical conduct, compliance with professional standards, and responsibility toward society, directly fulfilling this objective."
+        },
+        {
+            "heading": "PLO-8: Individual and Collaborative Teamwork mapped to PEO-3",
+            "text": "Effective teamwork and collaboration are fundamental to leadership and professional success in multidisciplinary environments. PLO-8 directly supports PEO-3, which highlights teamwork, leadership, and interpersonal skills as key graduate attributes."
+        },
+        {
+            "heading": "PLO-9: Communication mapped to PEO-3",
+            "text": "Strong written, oral, and interpersonal communication skills are essential for professional effectiveness and leadership. PLO-9 directly aligns with PEO-3, which emphasizes effective communication and professional interaction in diverse technical and non-technical settings."
+        },
+        {
+            "heading": "PLO-10: Project Management and Finance mapped to PEO-1, PEO-2, and PEO-3",
+            "text": "Project management and financial awareness enable graduates to plan, execute, and manage engineering projects efficiently and sustainably. This outcome supports PEO-1 by preparing graduates for leadership roles in industry and entrepreneurship, PEO-2 by ensuring the feasibility and sustainability of healthcare solutions, and PEO-3 by reinforcing leadership and decision-making skills in professional practice."
+        },
+        {
+            "heading": "PLO-11: Lifelong Learning mapped to PEO-1, PEO-2, and PEO-3",
+            "text": "Lifelong learning is explicitly stated in PEO-1 and is implicitly required to sustain innovation (PEO-2) and professional growth, ethical awareness, and leadership (PEO-3). PLO-11 ensures that graduates recognize the need for continuous learning and professional development throughout their careers."
+        }
+    ],
+
+    "table_8_1": {
+        "caption": "Mapping of Programme Learning Outcomes (PLOs) to Programme Educational Objectives (PEOs)",
+        "rowHeader": "PLO",
+        "columns": ["Graduate Attribute", "PEO 1", "PEO 2", "PEO 3"],
+        "rows": [
+            { "label": "1", "marks": ["Engineering Knowledge", "✓", "✓", ""] },
+            { "label": "2", "marks": ["Problem Analysis", "✓", "✓", ""] },
+            { "label": "3", "marks": ["Design/Development of Solutions", "✓", "✓", ""] },
+            { "label": "4", "marks": ["Investigation", "✓", "✓", ""] },
+            { "label": "5", "marks": ["Modern Tool Usage", "✓", "✓", ""] },
+            { "label": "6", "marks": ["The Engineer and the World", "", "✓", "✓"] },
+            { "label": "7", "marks": ["Ethics", "", "", "✓"] },
+            { "label": "8", "marks": ["Individual and Collaborative Teamwork", "", "", "✓"] },
+            { "label": "9", "marks": ["Communication", "", "", "✓"] },
+            { "label": "10", "marks": ["Project Management and Finance", "✓", "✓", "✓"] },
+            { "label": "11", "marks": ["Lifelong Learning", "✓", "✓", "✓"] }
+        ]
+    }
+}

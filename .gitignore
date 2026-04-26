@@ -1,0 +1,7 @@
+node_modules/
+*.docx
+.vscode/
+.env
+output-*.docx
+HITEC-*.docx
+gig

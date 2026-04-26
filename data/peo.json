@@ -1,0 +1,91 @@
+{
+    "peoStatements": [
+        {
+            "label": "PEO-1:",
+            "text": "Our graduates will excel as Biomedical Engineers in academia, industry, or entrepreneurship while embracing lifelong learning."
+        },
+        {
+            "label": "PEO-2:",
+            "text": "Our graduates will demonstrate the ability to design and develop innovative and sustainable solutions for global healthcare challenges."
+        },
+        {
+            "label": "PEO-3:",
+            "text": "Our graduates will exhibit effective communication, teamwork, and leadership skills while demonstrating commitment to ethical values and social responsibilities."
+        }
+    ],
+
+    "alignmentIntro": [
+        "The vision and mission of the Faculty of Engineering and Technology (E&T) are defined at the faculty level and are uniformly adopted by all departments under E&T. In addition, the Department has formulated a distinct Mission specific to the Department of Biomedical Engineering. The department's mission is presented in Section 4.",
+        "The alignment of the Programme Educational Objectives (PEOs) with the University Vision and Mission, the Faculty Vision and Mission, and the department Mission is presented in Tables 5.1, 5.2 and 5.3 respectively."
+    ],
+
+    "strategicPlan": [
+        "The BS Biomedical Engineering program has been accredited by the PEC. This program has an exceptional blend of theoretical aspect and extensive practical training to shape students into skillful professionals ready to take up real world challenges in the industry. The various elements of each PEO are now discussed in detail, followed by the adopted strategies. Benchmarks are also identified that define the various measures of success, which would be used over the next five years to quantify the achievements and progress of our graduate students."
+    ],
+
+    "table_5_1": {
+        "caption": "Mapping of Programme Educational Objectives (PEOs) with University Vision and Mission",
+        "headers": ["PEO", "University Vision – relevant phrases", "University Mission – relevant phrases"],
+        "columnWidths": [25, 37, 38],
+        "rows": [
+            [
+                "PEO-1 – excel as Biomedical Engineers in academia, industry, or entrepreneurship while embracing lifelong learning.",
+                "\"premier institution\", \"academic excellence\" → support graduates excelling in academia and industry.",
+                "\"quality education\", \"knowledge, research, creativity and entrepreneurial skills\", \"compete in the local and global market\" → directly support excellence in academia, industry and entrepreneurship."
+            ],
+            [
+                "PEO-2 – demonstrate the ability to design and develop innovative and sustainable solutions for global healthcare challenges.",
+                "\"innovative solutions in collaboration with industry\", \"sustainable development\", \"socio-economic growth\" → directly align with innovative, sustainable solutions.",
+                "\"strong linkages with the industry for innovative solutions\", \"socio-economic development\" → align with designing innovative, impactful healthcare solutions."
+            ],
+            [
+                "PEO-3 – exhibit effective communication, teamwork, and leadership skills while demonstrating commitment to ethical values and social responsibilities.",
+                "\"gender equality\", \"socio-economic growth\" → reflect equity, social responsibility and values expected from graduates.",
+                "\"social and moral responsibility\", \"gender equality\" → clearly support ethical conduct and social responsibility."
+            ]
+        ]
+    },
+
+    "table_5_2": {
+        "caption": "Mapping of PEOs to Faculty Vision and Faculty Mission",
+        "headers": ["PEO", "Faculty Vision – relevant phrases", "Faculty Mission – relevant phrases"],
+        "columnWidths": [25, 37, 38],
+        "rows": [
+            [
+                "PEO-1 – excel in academia, industry, entrepreneurship and lifelong learning.",
+                "\"propagate knowledge\", \"perpetuate truth for prosperity\" → support strong foundational knowledge and sustained professional growth needed to excel in careers.",
+                "\"produce engineers well-versed in the knowledge of their domain\", \"application in the service of industry and community\" → directly support excellence in academia, industry and entrepreneurial practice."
+            ],
+            [
+                "PEO-2 – innovative and sustainable healthcare solutions.",
+                "\"perpetuate truth for prosperity\" → implies use of correct, evidence-based knowledge for solutions that enhance prosperity and development.",
+                "\"application in the service of industry and community for creating innovative solutions\", \"keeping in view the ethical, environmental and societal concerns\" → directly aligns with innovative and sustainable healthcare solutions."
+            ],
+            [
+                "PEO-3 – ethics, leadership, communication, social responsibility.",
+                "\"perpetuate truth\" → underpins integrity, honesty and ethical behaviour expected from graduates.",
+                "\"application in the service of industry and community\", \"ethical, environmental and societal concerns\" → clearly support ethical conduct, social responsibility and professional behaviour in leadership and teamwork roles."
+            ]
+        ]
+    },
+
+    "table_5_3": {
+        "caption": "Mapping of Department Mission Key Statements to PEOs",
+        "rowHeader": "Department Mission Statements",
+        "columns": [
+            "PEO-1: Excel in academia / industry / entrepreneurship & lifelong learning",
+            "PEO-2: Innovative & sustainable healthcare solutions",
+            "PEO-3: Communication, teamwork, leadership, ethics & social responsibility"
+        ],
+        "rows": [
+            { "label": "Foster excellence in education, research, and innovation in biomedical engineering", "marks": ["✓", "✓", ""] },
+            { "label": "Equipping students with technical expertise", "marks": ["✓", "✓", ""] },
+            { "label": "Equipping students with problem-solving abilities", "marks": ["✓", "✓", ""] },
+            { "label": "Equipping students with entrepreneurial skills", "marks": ["✓", "", ""] },
+            { "label": "Equipping students with ethics and social responsibility", "marks": ["", "", "✓"] },
+            { "label": "Addressing complex healthcare challenges", "marks": ["", "✓", ""] },
+            { "label": "Advancing sustainable development through collaborations with industry", "marks": ["✓", "✓", "✓"] },
+            { "label": "Improving quality of life and well-being", "marks": ["✓", "✓", "✓"] }
+        ]
+    }
+}
