@@ -68,11 +68,3 @@ to populate the Table of Contents, List of Figures, and List of Tables.
 - **Update an approval date** → `config.js`, `APPROVALS` object.
 - **Add a new chapter** → create `chapters/ch11-foo.js` exporting `buildChapter11()`,
   import it in `main.js`, add to flags in `config.js`, and call it in the chapter list.
-
-## TODO before submission
-
-1. Drop a real `assets/logo.png` for the title page.
-2. Update `APPROVALS.facultyV` and `APPROVALS.facultyM` in `config.js` —
-   currently `"Approved ???"` because PDF source had it as `???`.
-3. Review rows 6–11 in `data/correlationMatrix.json` — these were inferred
-   from PLO definitions because the PDF excerpt cut off after PLO-5.
