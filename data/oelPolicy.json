@@ -1,0 +1,136 @@
+{
+    "_NOTE": "All policy content lives here. Edit prose without touching code.",
+
+    "docInfo": {
+        "universityName": "HITEC University, Taxila",
+        "documentTitle": "Open Ended Lab (OEL)",
+        "department": "Department of Biomedical Engineering",
+        "program": "BS Biomedical Engineering",
+        "documentNumber": "HITEC-BMED-OEL-GUIDE"
+    },
+
+    "title": "Open-Ended Laboratories (OELs) Guidelines for Faculty members",
+
+    "introduction": {
+        "heading": "1. Introduction and Rationale",
+        "paragraphs": [
+            "Open-Ended Laboratories (OELs) are an essential component of modern engineering education, particularly within an outcome-based education (OBE) framework. These laboratories are designed to move beyond procedural learning and enable students to engage in structured problem-solving, design thinking, and analytical reasoning.",
+            "In contrast to traditional laboratory exercises, where students follow predefined steps to obtain expected results, open-ended laboratories require students to make decisions regarding experimental design, implementation, and interpretation of results. This approach reflects real-world biomedical engineering practice, where problems are often complex, context-driven, and do not have a single correct solution.",
+            "Within the biomedical engineering curriculum, OELs support the development of competencies required for designing medical devices, analyzing physiological systems, and integrating hardware and software solutions in healthcare environments."
+        ]
+    },
+
+    "definition": {
+        "heading": "2. Definition of Open-Ended Laboratory",
+        "intro": "A laboratory activity is classified as an Open-Ended Laboratory when students are required to make independent decisions in one or more of the following areas:",
+        "bullets": [
+            "formulation or interpretation of the problem,",
+            "selection or design of the procedure,",
+            "analysis and justification of results."
+        ],
+        "outro": "The defining characteristic of an OEL is that the outcome is not predetermined, and multiple valid solutions may exist, provided they are technically justified."
+    },
+
+    "classification": {
+        "heading": "3. Classification Framework: Levels of Openness",
+        "intro": "The Department adopts a structured classification framework based on levels of openness in laboratory design. The classification is determined by the extent of instructor control over the problem, procedure, and expected outcomes.",
+        "table": {
+            "headers": ["Level", "Problem / Question", "Procedure", "Results / Interpretation"],
+            "rows": [
+                ["Level 0", "Given", "Given", "Given"],
+                ["Level 1", "Given", "Given", "Open"],
+                ["Level 2", "Given", "Open", "Open"],
+                ["Level 3", "Open", "Open", "Open"]
+            ]
+        }
+    },
+
+    "policy": {
+        "heading": "4. Policy on OEL Classification",
+        "intro": "For the purposes of curriculum design and implementation within the Department of Biomedical Engineering:",
+        "bullets": [
+            { "label": "Level 0 laboratories are not considered Open-Ended Labs:", "text": "These are classified as close-ended or guided laboratories, primarily intended for foundational skill development." },
+            { "label": "Level 1 and Level 2 laboratories are recognized as Open-Ended Labs:", "text": "These levels are strongly encouraged across undergraduate courses, as they provide an appropriate balance between guidance and independent problem-solving." },
+            { "label": "Level 3 laboratories are not recommended within regular coursework:", "text": "Due to their highly unstructured nature, Level 3 activities are more suitable for capstone design projects, undergraduate research, or final year projects." }
+        ]
+    },
+
+    "levelDescriptors": {
+        "heading": "5. Level Descriptors in Biomedical Engineering Context",
+        "intro": "Within the biomedical engineering curriculum, the levels of openness correspond to increasing student responsibility in experimental design and decision-making.",
+        "bullets": [
+            "At Level 0, students verify known principles using predefined procedures and expected outcomes. These laboratories serve as preparatory exercises and are not classified as OELs.",
+            "At Level 1, students follow a given procedure but are responsible for interpreting results, identifying variations, and drawing conclusions. While the experimental steps are defined, the analytical component requires independent thinking.",
+            "At Level 2, students are provided with a clearly defined engineering problem but must develop their own methodology to address it. They are expected to make decisions regarding system design, parameter selection, and validation of results. This level represents the primary form of Open-Ended Laboratory within the program.",
+            "At Level 3, students define the problem themselves and design the entire investigation. This level exceeds the scope of standard laboratory courses and is therefore reserved for advanced academic activities."
+        ]
+    },
+
+    "guidelines": {
+        "heading": "6. Guidelines for Designing Open-Ended Laboratories",
+        "paragraphs": [
+            "Open-Ended Laboratories must be designed to ensure both academic rigor and practical feasibility. The problem statement should be clearly defined and situated within a biomedical or healthcare context. However, the procedure should not be fully specified in Level 2 laboratories, allowing students to develop their own approach.",
+            "Appropriate constraints must be provided to guide student work. These may include limitations related to available hardware, software platforms, safety considerations, time, and expected performance. Constraints are essential to ensure that the problem remains realistic and achievable while still allowing multiple valid solutions.",
+            "Laboratory design should ensure that students are required to make meaningful engineering decisions. These decisions may relate to system architecture, parameter selection, data handling, or implementation strategies. The objective is to engage students in the engineering process rather than in procedural execution.",
+            "The scope of the lab must remain feasible within the allocated time, typically a three-hour session with additional work outside the lab if required. Overly complex systems, excessive hardware requirements, or multi-layered software architectures should be avoided.",
+            "Each OEL must include a clear mechanism for verification, ensuring that students can demonstrate the functionality and validity of their solution."
+        ]
+    },
+
+    "implementation": {
+        "heading": "7. Implementation Strategy",
+        "paragraphs": [
+            "The implementation of Open-Ended Laboratories should follow a progressive structure across the semester. Early laboratory sessions should focus on developing foundational skills through guided exercises. As the course progresses, laboratories should transition to Level 1 and subsequently to Level 2.",
+            "Within a typical laboratory session, students are expected to interpret the problem, develop a solution strategy, implement their design, and evaluate the results. The role of the instructor in Level 2 laboratories is that of a facilitator, providing guidance through questioning rather than direct instruction.",
+            "Group-based work is recommended for Level 2 laboratories, with an optimal group size of two to three students to encourage collaboration while maintaining individual accountability."
+        ]
+    },
+
+    "safety": {
+        "heading": "8. Safety and Ethical Considerations",
+        "paragraphs": [
+            "All Open-Ended Laboratories must adhere to established safety standards, particularly in experiments involving biomedical sensors or human interaction. Only non-invasive measurements are permitted unless explicitly approved.",
+            "Students must be instructed to avoid the use of real patient data and to ensure that all experiments comply with ethical guidelines. Where applicable, a brief safety or risk assessment should be included as part of the laboratory submission."
+        ]
+    },
+
+    "assessment": {
+        "heading": "9. Assessment and Rubric Guidelines",
+        "intro": "Assessment of Open-Ended Laboratories shall be based on a structured rubric that evaluates both the process and the outcome of student work. The evaluation must reflect the open-ended nature of the task and should not be based solely on obtaining a correct result.",
+        "subIntro": "A standard rubric for Level 2 laboratories is outlined below:",
+        "table": {
+            "headers": ["Criterion", "Weight"],
+            "rows": [
+                ["Problem Understanding and Context", "15%"],
+                ["Design and Decision Making", "25%"],
+                ["Implementation and Functionality", "25%"],
+                ["Analysis and Interpretation", "15%"],
+                ["Communication and Reporting", "20%"]
+            ]
+        },
+        "outro": "Performance within each criterion shall be evaluated across four levels: Excellent, Satisfactory, Developing, and Unsatisfactory. Emphasis should be placed on the justification of design decisions, quality of analysis, and clarity of communication."
+    },
+
+    "roles": {
+        "heading": "10. Roles and Responsibilities",
+        "paragraphs": [
+            "Faculty members are responsible for designing laboratories in accordance with this policy, ensuring appropriate classification of lab levels, and applying consistent assessment criteria. They are also responsible for maintaining a balance between guidance and independence.",
+            "Students are expected to actively engage in the learning process, take ownership of their design decisions, and maintain academic integrity in all aspects of laboratory work."
+        ]
+    },
+
+    "continuousImprovement": {
+        "heading": "11. Continuous Improvement",
+        "paragraphs": [
+            "The effectiveness of Open-Ended Laboratories shall be reviewed periodically through student feedback, course assessment data, and faculty input. The Department shall maintain a repository of laboratory designs and best practices to support continuous improvement and consistency across courses.",
+            "This policy may be revised as required to align with accreditation requirements and evolving educational practices."
+        ]
+    },
+
+    "footer": {
+        "department": "Department of Biomedical Engineering",
+        "university": "HITEC University, Taxila",
+        "version": "1.0",
+        "date": "April 1, 2026"
+    }
+}
